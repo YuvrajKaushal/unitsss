@@ -1,4 +1,4 @@
-FROM python:3.11-slim-bookworm
+FROM python:3.14.0a3-slim-bookworm
 
 LABEL org.opencontainers.image.title="Unit (python3.11-slim)"
 LABEL org.opencontainers.image.description="Official build of Unit for Docker."
