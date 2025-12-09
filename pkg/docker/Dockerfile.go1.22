@@ -1,4 +1,4 @@
-FROM golang:1.22-bookworm
+FROM golang:1.25.5-bookworm
 
 LABEL org.opencontainers.image.title="Unit (go1.22)"
 LABEL org.opencontainers.image.description="Official build of Unit for Docker."
